@@ -1,0 +1,9 @@
+[
+    {"model":"dkl","dataset":"powerplant","fold":0,"grid_size":100,"test_mnll":2.7205792489},
+    {"model":"dkl","dataset":"powerplant","fold":1,"grid_size":100,"test_mnll":2.7523461826},
+    {"model":"dkl","dataset":"powerplant","fold":2,"grid_size":100,"test_mnll":2.7163139674},
+    {"model":"dkl","dataset":"powerplant","fold":3,"grid_size":100,"test_mnll":2.7702647744},
+    {"model":"dkl","dataset":"powerplant","fold":4,"grid_size":100,"test_mnll":2.7593262871},
+    {"model":"dkl","dataset":"powerplant","fold":5,"grid_size":100,"test_mnll":2.7138620081},
+    {"model":"dkl","dataset":"powerplant","fold":6,"grid_size":100,"test_mnll":2.8029048784}
+]

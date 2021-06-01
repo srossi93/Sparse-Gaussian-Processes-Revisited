@@ -1,0 +1,7 @@
+[
+    {"model":"SKI","dataset":"powerplant","fold":0,"grid_size":10,"test_mnll":2.8587153641},
+    {"model":"SKI","dataset":"powerplant","fold":1,"grid_size":10,"test_mnll":2.8882676041},
+    {"model":"SKI","dataset":"powerplant","fold":2,"grid_size":10,"test_mnll":2.8766293452},
+    {"model":"SKI","dataset":"powerplant","fold":3,"grid_size":10,"test_mnll":2.8777829143},
+    {"model":"SKI","dataset":"powerplant","fold":4,"grid_size":10,"test_mnll":2.8697187752}
+]
